@@ -1,7 +1,9 @@
+package com.softcoaching.junit;
+
 /**
  * Created by afilipescu on 3/29/16.
  */
-public class StringHelperpackage com.in28minutes.junit.helper;
+
 
 public class StringHelper {
 
@@ -30,4 +32,4 @@ public class StringHelper {
         return first2Chars.equals(last2Chars);
     }
 
-} 
+}
